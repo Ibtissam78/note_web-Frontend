@@ -1,6 +1,7 @@
-
+Ibtissam EL HANY
 bonsoir vincent desoler pour le retard j'ai des problerme de connexion bonne soirée 
-ps: j'ai eu des soucis avec mon backend que j'ai reussie a fait a la derniére minute cependant l y a quelque route inacesible ce qui fait qud mon api est pas fonctionelle a 100% du coup j'ai utiliser le locastarange en attendanr. 
+ps: j'ai eu des soucis avec mon backend que j'ai reussie a fait a la derniére minute cependant l y a quelque route inacesible ce qui fait qud mon api est pas fonctionelle a 100% du coup j'ai utiliser le locastarange en attendanr.(ps j'ai un soucis avec l'url de production)
+https://note-web-frontend-ibtissam78s-projects.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
